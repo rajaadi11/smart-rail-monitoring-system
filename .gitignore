@@ -1,0 +1,15 @@
+# C++ build files
+build/
+cmake-build-*/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/

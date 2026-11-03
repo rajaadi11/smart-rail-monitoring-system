@@ -1,3 +1,0 @@
-/mnt/c/Users/aadit/Desktop/smart-rail-monitoring/embedded-simulator/build/CMakeFiles/rail_simulator.dir
-/mnt/c/Users/aadit/Desktop/smart-rail-monitoring/embedded-simulator/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/aadit/Desktop/smart-rail-monitoring/embedded-simulator/build/CMakeFiles/rebuild_cache.dir
